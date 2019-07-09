@@ -1,0 +1,18 @@
+h1 {color: blue;
+    text-align:center;
+    background-color: teal;
+    height: 300px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#middle {
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.name {
+    color: red;
+}
